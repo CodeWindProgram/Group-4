@@ -87,3 +87,37 @@ Database:PostgreSQL.
 @Reshma62000 reshmakhare76@gmail.com
 * Gathering information releated to session management
 * Helped @yash100799 in creating backend for session
+
+# Screenshots:
+
+* Folder Structure
+
+<img src="screenshots/Folder Structure.PNG" width="200" height="350" />
+
+* HomePage
+
+<img src="screenshots/Homepage.PNG" width="700" height="350" />
+
+* UserRegistration
+
+<img src="screenshots/UserRegistration.PNG" width="700" height="350" />
+
+* UserLogin
+
+<img src="screenshots/UserLogin.PNG" width="700" height="350" />
+
+* DashBoard
+
+<img src="screenshots/Dashboard.PNG" width="700" height="350" />
+
+* Register Activity in Backend
+
+<img src="screenshots/Register Activity in Backend.PNG" width="700" height="350" />
+
+* Login Activity in Backend
+
+<img src="screenshots/Login Activity in Backend.PNG" width="700" height="350" />
+
+* PostgreSQL Database
+
+<img src="screenshots/PostgreSQL database.PNG" width="700" height="350" />
